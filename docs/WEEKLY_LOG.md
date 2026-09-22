@@ -23,3 +23,12 @@ Learned: contribution graph counts commits, PRs, issues, and reviews, and only
 counts commits whose author email matches the GitHub account
 Stuck on: nothing yet
 Next: profile README live, and READMEs on the two existing repos
+
+## Week of 2026-09-22
+Shipped: cleanup branches on whatsapp-group-sync and whatsapp-adding-automation,
+repo audit written up in docs/REPO_AUDIT.md
+Learned: commits on a branch that is not the default branch do not count as
+contributions, which is why the automation repo looked empty despite the work
+Stuck on: gradlink is not on GitHub yet, nothing to review
+Next: merge the automation work into main, decide public or private, start
+gradlink with scripts/new-project.sh so it begins at the standard

@@ -1,8 +1,7 @@
 # Roadmap to graduation
 
-Assumption I am working from: 2025 to 2029 batch, so roughly 33 months of
-runway from September 2026. If the batch year is different, shift every block
-but keep the order.
+Confirmed: 2025 to 2029 batch, so roughly 33 months of runway from
+September 2026.
 
 The target in the screenshot is around 1,500 contributions in a year. That is
 about 4 a day, or more realistically 15 to 25 on the days you actually sit and
